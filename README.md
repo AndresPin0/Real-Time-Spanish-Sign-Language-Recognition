@@ -1,2 +1,5 @@
-# Real-Time-Spanish-Sign-Language-Recognition
-A real-time system that uses MediaPipe and machine learning to recognize and translate Spanish Sign Language (LSE) hand gestures into text. Supports both static and dynamic signs with webcam input and live feedback.
+Real-Time-Spanish-Sign-Language-Recognition is a computer vision-based system designed to translate Spanish Sign Language (LSE) hand gestures into text in real time. The project uses MediaPipe Hands to extract 21 key landmarks per hand, enabling the accurate tracking of static and dynamic gestures.
+
+By processing video input from a webcam, the system identifies and interprets hand configurations corresponding to letters or words in the Spanish sign language alphabet. Feature engineering techniques are applied to extract distances, angles, and motion patterns from the hand keypoints. These features are then fed into machine learning classifiers (e.g., SVM, Random Forest, LSTM) trained to recognize specific signs.
+
+The system includes a simple graphical user interface that displays the live video feed, visualized hand keypoints, and the translated text output. This project contributes to improving accessibility for the deaf and hard-of-hearing community and serves as a foundation for more advanced multimodal sign language translation systems.
