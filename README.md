@@ -2,7 +2,7 @@
 
 ## Datasets
 
-This project uses two main datasets:
+This project uses a main datasets:
 
 ### Spanish Sign Language (SSL) Dictionary Dataset
 - Size: ~5GB
