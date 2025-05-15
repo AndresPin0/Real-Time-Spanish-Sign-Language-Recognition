@@ -12,7 +12,6 @@ The system includes a simple graphical user interface that displays the live vid
 
 - Python 3.10 or higher
 - Webcam (for real-time recognition)
-- CUDA-capable GPU (recommended for TensorFlow acceleration)
 - Git
 
 ## Dependencies
