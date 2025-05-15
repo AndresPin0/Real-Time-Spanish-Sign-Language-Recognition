@@ -172,3 +172,61 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#Entornos virtuales
+venv/
+env/
+.venv/
+
+#Archivos de paquetes
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+#Datasets y archivos grandes
+data/
+Datasets/
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.h5
+*.ckpt
+*.tfrecord
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.png
+
+#Archivos de salida o modelos
+models/
+outputs/
+*.log
+*.pkl
+*.joblib
+*.onnx
+*.pb
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos generados o temporales
+*.DS_Store
+*.swp
+*.bak
+*.tmp
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos de configuración de Kaggle
+kaggle.json
+
+# Otros
+*.lock
+.env
+.env.*
