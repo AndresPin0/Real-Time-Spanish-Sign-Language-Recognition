@@ -173,6 +173,9 @@ Common issues and their solutions:
    - Modify batch size
    - Check for data imbalance
    - Monitor loss curves
+  
+## Saved models
+[Traditional CNN and Improved CNN (MobileNetV2)](https://drive.google.com/drive/folders/1XXVZWfFf0O9FYYkjPmYTw4ICwZ553vdS?usp=share_link)
 
 ## Acknowledgments
 
