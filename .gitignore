@@ -200,6 +200,7 @@ Datasets/
 *.jpg
 *.png
 
+
 #Archivos de salida o modelos
 models/
 outputs/
