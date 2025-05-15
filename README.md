@@ -12,7 +12,6 @@ The system includes a simple graphical user interface that displays the live vid
 
 - Python 3.10 or higher
 - Webcam (for real-time recognition)
-- CUDA-capable GPU (recommended for TensorFlow acceleration)
 - Git
 
 ## Dependencies
@@ -39,7 +38,7 @@ Main libraries used in this project:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Real-Time-Spanish-Sign-Language-Recognition.git
+   git clone https://github.com/andrespin0/Real-Time-Spanish-Sign-Language-Recognition.git
    cd Real-Time-Spanish-Sign-Language-Recognition
    ```
 
@@ -175,10 +174,6 @@ Common issues and their solutions:
    - Check for data imbalance
    - Monitor loss curves
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - TensorFlow team and community
@@ -200,3 +195,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 3. [Data Augmentation Tutorial](https://docs.voxel51.com/tutorials/data_augmentation.html) - Voxel51 Documentation
 4. [Albumentations with Image Classification Framework](https://stackoverflow.com/questions/71476099/how-to-add-data-augmentation-with-albumentation-to-image-classification-framewor) - Stack Overflow Discussion
 
+
+* [Jhonatan Castaño](https://github.com/JhonatanCI)
+* [Andrés Pino](https://github.com/AndresPin0)
