@@ -6,14 +6,14 @@ This project uses two main datasets:
 
 ### Spanish Sign Language (SSL) Dictionary Dataset
 - Size: ~5GB
-- Source: [Spanish Sign Language Dataset](https://www.kaggle.com/datasets/asadullah92/spanish-sign-language-dataset)
+- Source: [Spanish Sign Language Dataset]([https://www.kaggle.com/datasets/asadullah92/spanish-sign-language-dataset](https://www.kaggle.com/datasets/kirlelea/spanish-sign-language-alphabet-static))
 - Author: Asadullah Khalid
 - License: CC BY-NC-SA 4.0
 - Description: A comprehensive collection of Spanish Sign Language gestures covering various words and phrases.
 
 ### Mexican Sign Language (MSL) Words Dataset
 - Size: ~2GB
-- Source: [Mexican Sign Language Dataset](https://www.kaggle.com/datasets/eloyrj/mexican-sign-language-dataset)
+- Source: [Mexican Sign Language Dataset]([https://www.kaggle.com/datasets/eloyrj/mexican-sign-language-dataset](https://www.kaggle.com/datasets/sujaykapadnis/mexicansign-language-dataset))
 - Author: Eloy Rojo
 - License: CC0: Public Domain
 - Description: A collection of Mexican Sign Language gestures focusing on common words.
