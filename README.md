@@ -11,25 +11,16 @@ This project uses two main datasets:
 - License: CC BY-NC-SA 4.0
 - Description: A comprehensive collection of Spanish Sign Language gestures covering various words and phrases.
 
-### Mexican Sign Language (MSL) Words Dataset
-- Size: ~2GB
-- Source: [Mexican Sign Language Dataset](https://www.kaggle.com/datasets/sujaykapadnis/mexicansign-language-dataset)
-- Author: Eloy Rojo
-- License: CC0: Public Domain
-- Description: A collection of Mexican Sign Language gestures focusing on common words.
-
 ## Dataset Access
 
 Due to the large size of the datasets, they are not included directly in this repository. Instead, you can:
 
 1. Download them manually from the Kaggle links above
-2. Use the automated download script provided in `download_datasets.py`
 
 Place the downloaded datasets in the following structure:
 ```
 datasets/
-├── SSLdictionary/
-└── MSLwords1/
+└── SSLdictionary/
 ```
 
 Real-Time-Spanish-Sign-Language-Recognition is a computer vision-based system designed to translate Spanish Sign Language (LSE) hand gestures into text in real time. The project uses MediaPipe Hands to extract 21 key landmarks per hand, enabling the accurate tracking of static and dynamic gestures.
