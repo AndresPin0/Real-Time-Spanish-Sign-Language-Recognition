@@ -20,10 +20,7 @@ This project uses two main datasets:
 
 ## Dataset Access
 
-Due to the large size of the datasets, they are not included directly in this repository. Instead, you can:
-
-1. Download them manually from the Kaggle links above
-2. Use the automated download script provided in `download_datasets.py`
+Due to the large size of the datasets, they are not included directly in this repository. Instead, you can download them manually from the Kaggle links above
 
 Place the downloaded datasets in the following structure:
 ```
