@@ -17,6 +17,8 @@ Due to the large size of the datasets, they are not included directly in this re
 
 1. Download them manually from the Kaggle links above
 
+Due to the large size of the datasets, they are not included directly in this repository. Instead, you can download them manually from the Kaggle links above
+
 Place the downloaded datasets in the following structure:
 ```
 datasets/
