@@ -199,5 +199,4 @@ Common issues and their solutions:
 4. [Albumentations with Image Classification Framework](https://stackoverflow.com/questions/71476099/how-to-add-data-augmentation-with-albumentation-to-image-classification-framewor) - Stack Overflow Discussion
 
 
-* [Jhonatan Castaño](https://github.com/JhonatanCI)
 * [Andrés Pino](https://github.com/AndresPin0)
