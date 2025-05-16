@@ -191,6 +191,7 @@ Datasets/
 *.tar.gz
 *.rar
 *.7z
+*.h5
 *.ckpt
 *.tfrecord
 *.mp4
