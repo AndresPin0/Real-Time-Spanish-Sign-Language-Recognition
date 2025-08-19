@@ -186,7 +186,7 @@ __pycache__/
 
 #Datasets y archivos grandes
 data/
-Datasets/
+datasets/
 *.zip
 *.tar.gz
 *.rar
@@ -231,3 +231,4 @@ kaggle.json
 *.lock
 .env
 .env.*
+
