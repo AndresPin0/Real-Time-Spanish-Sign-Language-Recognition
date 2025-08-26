@@ -277,6 +277,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Andrés Pino** - [GitHub Profile](https://github.com/AndresPin0)
+**Juan Medina** - [GitHub Profile](https://github.com/JuanSMedinaC)
 
 ---
 
