@@ -1,0 +1,3 @@
+Arquitectura,Best Fase1,ValAcc Fase1,Best Fase2,ValAcc Fase2,TestAcc,Modelo
+ResNet50,"{'base_weights': 'imagenet', 'units1': 768, 'units2': 384, 'drop1': 0.5, 'drop2': 0.4, 'lr_init': 0.001}",0.9187,"{'unfreeze_last_n': 30, 'lr_fine': 0.0001}",0.9969,0.98,best_resnet50_gridsearch.h5
+MobileNetV3,"{'base_weights': 'imagenet', 'units1': 512, 'units2': 256, 'drop1': 0.4, 'drop2': 0.3, 'lr_init': 0.001}",0.9375,"{'unfreeze_last_n': 40, 'lr_fine': 0.0001}",0.9688,0.9675,best_mobilenetv3_gridsearch.h5
